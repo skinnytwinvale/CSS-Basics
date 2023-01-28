@@ -52,6 +52,13 @@ will find all elements which are the nth children of their parents, for some spe
 
 ## Specificity
 
+One of the most important ideas around CSS is that of specificity, or how specific we are with our selectors
+These weightings are not exact (10 element selectors does not equal a class selector), it is more an idea of showing you the magnitude of each kind of selector.
+
+<img width="306" alt="Screenshot 2023-01-27 at 8 23 41 PM" src="https://user-images.githubusercontent.com/101606295/215234023-ad6fe43c-562f-46fe-9743-87d9e6947003.png">
+
+What this means is that a style rule on an id is weighed much more heavily than a style rule on a class. Similarly, a style rule on a class is weighed more heavily than a rule on an element. Put another way, id rules are more specific than class rules, and class rules are more specific than element rules.
+
 
 
 
