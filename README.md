@@ -59,6 +59,11 @@ These weightings are not exact (10 element selectors does not equal a class sele
 
 What this means is that a style rule on an id is weighed much more heavily than a style rule on a class. Similarly, a style rule on a class is weighed more heavily than a rule on an element. Put another way, id rules are more specific than class rules, and class rules are more specific than element rules.
 
+# Webpage creation
+
+### First Attempt skimming through notes
+
+<img width="1440" alt="Screenshot 2023-01-25 at 10 35 57 PM" src="https://user-images.githubusercontent.com/101606295/215234497-265916d4-ebf0-4c4a-a648-93e974c7e625.png">
 
 
 
